@@ -41,7 +41,8 @@ Una vez que la página web esté abierta en tu navegador, podrás enviar mensaje
 
 :tada: ¡Felicidades! Ahora sabes cómo utilizar EventBridge, SQS y Lambda para crear una aplicación Serverless en AWS. :tada:
 
-# Características adicionales
+## Características adicionales
+
 Además de proporcionar un ejemplo de cómo utilizar EventBridge, SQS y Lambda, este repositorio también incluye algunas características adicionales que pueden ser útiles:
 
 Autenticación de usuarios: La aplicación utiliza Amazon Cognito para permitir que los usuarios se registren y accedan a la página web.
@@ -49,7 +50,8 @@ Almacenamiento de mensajes: Los mensajes enviados por los usuarios son almacenad
 Integración con SNS: La aplicación también permite a los usuarios suscribirse a una lista de correo utilizando Amazon SNS.
 Estas características adicionales pueden ser útiles para aquellos que quieran expandir el ejemplo y crear aplicaciones más complejas.
 
-#Contribuciones
+## Contribuciones
+
 Este repositorio es un proyecto de código abierto y está disponible para cualquier persona que quiera contribuir. Si tienes ideas de cómo mejorar el ejemplo o quieres reportar un error, no dudes en abrir una issue o enviar un pull request.
 
 :heart: ¡Gracias por utilizar este repositorio! :heart:
